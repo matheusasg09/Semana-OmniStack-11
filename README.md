@@ -3,13 +3,11 @@
 </h1>
 
 <p align="center">   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheusasg09/Semana-OmniStack-11">
+   <img alt="GitHub commits" src="https://badgen.net/github/commits/matheusasg09/Semana-OmniStack-11">
+
+  <img  src="https://badgen.net/badge/stars/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85">
   
-  <a href="https://github.com/matheusasg09/Semana-OmniStack-11/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheusasg09/Semana-OmniStack-11">
-  </a>
-  
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img alt="License" src="https://badgen.net/badge/license/MIT/blue">
 </p>
 
 <p align="center">
